@@ -14,7 +14,7 @@ Here're some of the project's best features:
 *   Timetable Search
 *   Auto timetable
 
-<h2>🛠️ Installation Steps:</h2>
+<h2>🛠️  Steps:</h2>
 
 <p>1. Go to the website.</p>
 
