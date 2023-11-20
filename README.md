@@ -1,6 +1,6 @@
 <h1 align="center" id="title">KPAOS Information System</h1>
 
-<h2>🚀 Demo</h2>
+<h2>🚀 Website</h2>
 
 [https://kpaos-infosys.netlify.app](https://kpaos-infosys.netlify.app)
 
