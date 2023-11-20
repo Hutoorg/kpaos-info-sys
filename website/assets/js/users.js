@@ -1,11 +1,33 @@
-user = localStorage.getItem(username);
+function getCookie(cname) {
+  let name = cname + "=";
+  let decodedCookie = decodeURIComponent(document.cookie);
+  let ca = decodedCookie.split(";");
+  for (let i = 0; i < ca.length; i++) {
+    let c = ca[i];
+    while (c.charAt(0) == " ") {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
 
+// Read Cookie
+let user = document.cookie;
+getCookie("username");
+
+//* User Section
+// ! Do NOT edit this section!
 const users = [
   { username: "nadech.ta", name: "ณดชน์ ตั้งปภานันต์" },
-  { username: "apiwit.po", name: "อภิวิชญ์ โป้ซิ้ว" },
-  { username: "atitaya.bo", name: "อาทิตยา บุณยเกียรติ" },
-  { username: "peamika.ao", name: "เปมิกา อ่าวลึกน้อย" },
-  { username: "narawit.na", name: "01536" },
-  { username: "lanta.pu", name: "01533" },
-  { username: "rittinan.so", name: "01525" },
+  { username: "kpaos", name: "ผู้ใช้" },
 ];
+
+if (user == users) {
+  document.getElementById("hello").innerHTML =
+    "สวัสดี " + user + " ยินดีต้อนรับสู่ ระบบข้อมูล รร.อบจ.กระบี่";
+}
+
+// TODO: Finish this code
