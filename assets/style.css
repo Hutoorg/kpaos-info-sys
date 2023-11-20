@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Mali:wght@300;400;500;600&family=Noto+Sans+Thai:wght@300;400;500;600;700&display=swap");
+body {
+  font-family: "Noto Sans Thai", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Mali", cursive;
+  font-weight: 600;
+  font-size: 36px;
+}
+
+#studentId,
+#examRoom,
+#username,
+#password {
+  font-family: "Mali", cursive;
+  font-weight: 500;
+  border: 1px solid rgb(50, 50, 50);
+  border-radius: 5px;
+  margin-bottom: auto;
+}
+
+button {
+  font-family: "Mali", cursive;
+  font-weight: 500;
+  color: black;
+  font-size: 13px;
+  background-color: #a2c457;
+  border: none;
+  border-radius: 20px;
+  height: 25px;
+  transition-duration: 500ms;
+}
+
+button:hover {
+  color: white;
+  background-color: #140e76;
+}
+
+.searchDiv {
+  margin-top: 10px;
+  background-color: rgb(240, 240, 240);
+  width: 67rem;
+  margin-left: auto; /* Set margin-left to auto to center the div horizontally */
+  margin-right: auto; /* Set margin-right to auto to center the div horizontally */
+  text-align: center; /* Center the content inside the div horizontally */
+  border-radius: 1em;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+table,
+th,
+td {
+  text-align: center;
+  margin-left: auto; /* Set margin-left to auto to center the div horizontally */
+  margin-right: auto; /* Set margin-right to auto to center the div horizontally */
+  width: 65rem;
+  border: 1px solid rgb(100, 100, 100);
+  border-radius: 0.5em;
+  background-color: white;
+}
+
+td {
+  height: 20px;
+}
+
+#searchResults {
+  text-align: left;
+  margin-left: 25px;
+}
+
+@media (max-width: 1088px) {
+  #studentId,
+  #username,
+  #examRoom,
+  #password {
+    margin-bottom: 5px;
+  }
+  .searchDiv {
+    width: 100%;
+  }
+
+  table {
+    width: 99%;
+  }
+}
