@@ -15,19 +15,27 @@ function getCookie(cname) {
 }
 
 // Read Cookie
-let user = document.cookie;
-getCookie("username");
+let username = getCookie("username");
 
-//* User Section
+// * User Section
 // ! Do NOT edit this section!
 const users = [
   { username: "nadech.ta", name: "ณดชน์ ตั้งปภานันต์" },
   { username: "kpaos", name: "ผู้ใช้" },
 ];
 
-if (user == users) {
+let user = users.find((u) => u.username === username);
+
+if (user) {
+  // Check if 'user' is defined
   document.getElementById("hello").innerHTML =
-    "สวัสดี " + user + " ยินดีต้อนรับสู่ ระบบข้อมูล รร.อบจ.กระบี่";
+    "สวัสดี " + user.name + " ยินดีต้อนรับสู่ ระบบข้อมูล รร.อบจ.กระบี่";
+} else {
+  location.href = "./index.html";
 }
 
-// TODO: Finish this code
+// * Logout
+function logout() {
+  document.cookie = "username=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+  location.href = "./index.html";
+}

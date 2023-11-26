@@ -35,11 +35,12 @@ const users = [
 ];
 
 // Read the Cookie
-let user = document.cookie;
-getCookie("username");
+let usernameFromCookie = getCookie("username"); // Store the result in a variable
 
-// Check Users
-if (user == users) {
+// Check if the username from the cookie exists in the users array
+let user = users.find((u) => u.username === usernameFromCookie);
+
+if (user) {
   location.href = "./home.html";
 } else {
   loginForm.addEventListener("submit", (event) => {
@@ -48,8 +49,8 @@ if (user == users) {
     const username = loginForm.username.value;
     const password = loginForm.password.value;
 
-    let user = users.find(
-      (user) => user.username === username && user.password === password
+    user = users.find(
+      (u) => u.username === username && u.password === password
     );
 
     if (user) {
