@@ -41,7 +41,7 @@ let usernameFromCookie = getCookie("username"); // Store the result in a variabl
 let user = users.find((u) => u.username === usernameFromCookie);
 
 if (user) {
-  location.href = "./home.html";
+  location.href = "./home";
 } else {
   loginForm.addEventListener("submit", (event) => {
     event.preventDefault();
@@ -55,7 +55,7 @@ if (user) {
 
     if (user) {
       setCookie("username", username, 14);
-      location.href = "./home.html";
+      location.href = "./home";
     } else {
       alert("ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง!");
     }
@@ -72,5 +72,5 @@ const referralCode = getQueryString.get("ref");
 // Check if the referral code is correct
 if (referralCode === "dJiDzv7lGIjcLf453EVbFay2SUOgMA") {
   setCookie("username", "kpaos", 1);
-  location.href = "./home.html";
+  location.href = "./home";
 }
