@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-[Report a Vulnerability](https://github.com/Hutoorg/kpaos-info-sys/security/advisories)
+[Report a Vulnerability here](https://github.com/Hutoorg/kpaos-info-sys/security/advisories)
