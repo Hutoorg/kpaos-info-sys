@@ -57,7 +57,32 @@ if (user) {
       setCookie("username", username, 14);
       location.href = "./home.html";
     } else {
-      alert("Invalid username or password!");
+      alert("ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง!");
     }
   });
+}
+
+// * Referral System Section
+// Get the parameters
+const params = location.search;
+
+// If have, continue; if not, end
+if (params) {
+  // Invite by who?
+  const byUser = [
+    { invID: "dJiDzv7lGIjcLf453EVbFay2SUOgMA", username: "nadech.ta" },
+  ];
+
+  // Get the Referral Code
+  const getQueryString = new URLSearchParams(params);
+  const rawReferralCode = getQueryString.get("ref");
+
+  // Find the Referral Code
+  byU = byUser.find((b) => b.invID === rawReferralCode);
+
+  // Check if the referral code is correct
+  if (byU) {
+    setCookie("username", "kpaos", 1);
+    location.href = "./home.html";
+  }
 }
