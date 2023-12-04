@@ -4,11 +4,11 @@
 
 [https://kpaos-infosys.netlify.app](https://kpaos-infosys.netlify.app)
 
-  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d78542ff-bdf5-4559-82d5-55b0a17f4bda/deploy-status)](https://app.netlify.com/sites/kpaos-infosys/deploys)
   
 <h2>🧐 Features</h2>
 
-Here're some of the project's best features:
+Here are some of the project's best features:
 
 *   Examinee Search
 *   Timetable Search (Soon)
