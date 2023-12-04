@@ -11,31 +11,9 @@
 Here're some of the project's best features:
 
 *   Examinee Search
-*   Timetable Search
-*   Auto timetable
+*   Timetable Search (Soon)
+*   Auto timetable (Soon)
 
-<h2>🛠️  Steps:</h2>
-
-<p>1. Go to the website.</p>
-
-<p>2. Enter Username. The format is:</p>
-
-```
-[name].[first 2 letters of the last name ]
-```
-
-<p>3. Enter Password. The format is:</p>
-
-```
-[student ID]
-```
-
-<p>4. Login to the System</p>
-
-<p>5. Select features</p>
-
-  
-  
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
@@ -44,7 +22,7 @@ Technologies used in the project:
 *   CSS
 *   JS
 *   JSON
-*   HTML Web Storage API
+*   CSV
 
 <h2>🛡️ License:</h2>
 
