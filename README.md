@@ -10,7 +10,7 @@
 
 Here are some of the project's best features:
 
-*   Examinee Search
+*   Examinee Search (M.1/2024 R2; Will be release on January 2024)
 *   Timetable Search (Soon)
 *   Auto timetable (Soon)
 
