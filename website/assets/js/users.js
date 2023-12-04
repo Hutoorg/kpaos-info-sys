@@ -39,19 +39,13 @@ function logout() {
   document.cookie = "username=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
   location.href = "./index.html";
 }
+//* Referral System
 
-// * Referral System
-// Invite by who?
-const byUser = [
-  { username: "nadech.ta", invID: "dJiDzv7lGIjcLf453EVbFay2SUOgMA" },
-];
-
-let byUsr = byUser.find((b) => b.username === username);
-
-if (byUsr) {
+if (username != "kpaos") {
   document.getElementById("qrInv").src =
-    "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://kpaos-infosys.netlify.app/?" +
-    byUsr.invID;
+    "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://kpaos-infosys.netlify.app/?dJiDzv7lGIjcLf453EVbFay2SUOgMA&utm_source=" +
+    username +
+    "&utm_medium=qrcode_user&utm_campaign=entrance_m1_2023_r2";
 } else {
   document.getElementById("inv").innerHTML = "";
 }
