@@ -31,13 +31,13 @@ if (user) {
   document.getElementById("hello").innerHTML =
     "สวัสดี " + user.name + " ยินดีต้อนรับสู่ ระบบข้อมูล รร.อบจ.กระบี่";
 } else {
-  location.href = "./index.html";
+  location.href = "./";
 }
 
 // * Logout
 function logout() {
   document.cookie = "username=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
-  location.href = "./index";
+  location.href = "./";
 }
 //* Referral System
 
