@@ -1,28 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Mali:wght@300;400;500;600&family=Noto+Sans+Thai:wght@300;400;500;600;700&display=swap");
 body {
   font-family: "Noto Sans Thai", sans-serif;
-  text-align: center;
-}
-
-h1 {
-  font-family: "Mali", cursive;
-  font-weight: 600;
-  font-size: 36px;
-}
-
-label {
-  font-family: "Mali", cursive;
-}
-
-#studentId,
-#examRoom,
-#username,
-#password {
-  font-family: "Mali", cursive;
-  font-weight: 500;
-  border: 1px solid rgb(50, 50, 50);
-  border-radius: 5px;
-  margin-bottom: auto;
 }
 
 button {
@@ -33,7 +11,6 @@ button {
   background-color: #a2c457;
   border: none;
   border-radius: 20px;
-  height: 25px;
   transition-duration: 500ms;
 }
 
@@ -42,6 +19,7 @@ button:hover {
   background-color: #140e76;
 }
 
+/* TODO: From here, cancel all */
 .searchDiv {
   margin-top: 10px;
   background-color: rgb(240, 240, 240);
@@ -77,12 +55,6 @@ td {
 }
 
 @media (max-width: 1088px) {
-  #studentId,
-  #username,
-  #examRoom,
-  #password {
-    margin-bottom: 5px;
-  }
   .searchDiv {
     width: 100%;
   }
