@@ -10,7 +10,7 @@
 
 Here are some of the project's best features:
 
-- Examinee Search (M.1/2024 R2; Will be release on January 2024)
+- Examinee Search (M.1/2024 R2; Will be released on January 2024)
 - Timetable Search (Soon)
 - Auto timetable (Soon)
 
@@ -18,10 +18,11 @@ Here are some of the project's best features:
 
 Technologies used in the project:
 
-- HTML
-- CSS
-- JS
-- JSON
+- [HTML](https://html.spec.whatwg.org/multipage/)
+- [CSS](https://www.w3.org/TR/CSS)
+- [JS](https://en.wikipedia.org/wiki/JavaScript)
+- [Node JS](https://nodejs.org)
+- [JSON](https://www.json.org)
 
 <h2>🛡️ License:</h2>
 
