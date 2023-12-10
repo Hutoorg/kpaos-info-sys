@@ -1,0 +1,10 @@
+[
+  {
+    "username": "john_doe",
+    "password": "$2a$12$gZJDVl/xWk9ftALiJOuIS.Tzr58vyvaS1XhKb1dQklQ.rsXoInSiu"
+  },
+  {
+    "username": "alice_smith",
+    "password": "$2b$10$ILB..1nUsdQv2xJ.8T5zHuzoiFDBtBHTZjek63/lTpNGVHkss2uTm"
+  }
+]

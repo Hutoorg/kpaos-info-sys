@@ -1,0 +1,27 @@
+{
+  "name": "kpaos-info-sys",
+  "version": "1.0.0",
+  "description": "KPAOS Infomation System",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KPAOSsc/kpaos-info-sys.git"
+  },
+  "author": "Huto",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/KPAOSsc/kpaos-info-sys/issues"
+  },
+  "homepage": "https://github.com/KPAOSsc/kpaos-info-sys#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
