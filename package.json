@@ -1,10 +1,10 @@
 {
   "name": "kpaos-info-sys",
   "version": "1.0.0",
-  "description": "KPAOS Infomation System",
-  "main": "index.js",
+  "description": "KPAOS Information System",
+  "main": "netlify.toml",
   "scripts": {
-    "test": "node ./index.js"
+    "test": "netlify dev"
   },
   "repository": {
     "type": "git",
