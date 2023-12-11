@@ -26,16 +26,18 @@ function getCookie(cname) {
   return "";
 }
 
+// * User Section
 // Get Users
 async function getUsersRaw() {
-  const response = await fetch("./assets/json/users.json");
-  const usrs = await response.json();
+  const usersDbResponse = await fetch("./assets/json/users.json");
+  const usrs = await usersDbResponse.json();
   return usrs;
 }
 
-// * User Section
+// Init variable
 var users;
 
+// Extract
 getUsersRaw()
   .then((usrs) => {
     const users = usrs;
@@ -48,6 +50,7 @@ getUsersRaw()
 // Read the Cookie
 let usernameFromCookie = getCookie("username"); // Store the result in a variable
 
+// Init from extract
 async function login() {
   let users = await getUsersRaw();
 
@@ -83,12 +86,40 @@ login();
 // * Referral System Section
 // Get the parameters
 const params = location.search;
-// Get the Referral Code
+
+// Get referral code from params
 const getQueryString = new URLSearchParams(params);
 const referralCode = getQueryString.get("ref");
 
-// Check if the referral code is correct
-if (referralCode === "dJiDzv7lGIjcLf453EVbFay2SUOgMA") {
-  setCookie("username", "kpaos", 1);
-  location.href = "./home";
+// Get referral code from database
+async function getRefCode() {
+  const refDbRespond = await fetch("./assets/json/referral.json");
+  const ref = await refDbRespond.json();
+  return ref;
+}
+
+// Init variable
+var referral;
+
+// Extract
+getRefCode()
+  .then((ref) => {
+    const referral = ref;
+    return referral;
+  })
+  .catch((error) => {
+    console.error(error);
+  });
+
+// Init from extract
+async function auth() {
+  let referral = await getRefCode();
+
+  // Check if the referral code is correct
+  let rCode = referral.find((r) => r.referralCode === referralCode);
+
+  if (rCode.referralCode) {
+    setCookie("username", rCode.username, 3);
+    location.href = "./home";
+  }
 }
