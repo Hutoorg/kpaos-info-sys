@@ -26,43 +26,59 @@ function getCookie(cname) {
   return "";
 }
 
-// Get Hutocrypt API Function
-async function getUsers() {
+// Get Users
+async function getUsersRaw() {
   const response = await fetch("./assets/json/users.json");
   const usrs = await response.json();
   return usrs;
 }
 
 // * User Section
-// ! Do NOT edit this section!
-const users = getUsers();
+var users;
+
+getUsersRaw()
+  .then((usrs) => {
+    const users = usrs;
+    return users;
+  })
+  .catch((error) => {
+    console.error(error);
+  });
+
 // Read the Cookie
 let usernameFromCookie = getCookie("username"); // Store the result in a variable
 
-// Check if the username from the cookie exists in the users array
-let user = users.find((u) => u.username === usernameFromCookie);
+async function login() {
+  let users = await getUsersRaw();
 
-if (user) {
-  location.href = "./home";
-} else {
-  loginForm.addEventListener("submit", (event) => {
-    event.preventDefault();
+  // Check if the username from the cookie exists in the users array
+  let user = users.find((u) => u.username === usernameFromCookie);
 
-    const username = loginForm.username.value;
-    const password = loginForm.password.value;
+  if (user) {
+    location.href = "./home";
+  } else {
+    loginForm.addEventListener("submit", (event) => {
+      event.preventDefault();
 
-    user = users.find(
-      (u) => u.username === username && u.password === password
-    );
+      const username = loginForm.username.value;
+      const password = loginForm.password.value;
 
-    if (user) {
-      setCookie("username", username, 14);
-      location.href = "./home";
-    } else {
-      alert("ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง!");
-    }
-  });
+      user = users.find(
+        (u) => u.username === username && u.password === password
+      );
+
+      if (user) {
+        setCookie("username", username, 14);
+        location.href = "./home";
+      } else {
+        alert("ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง!");
+      }
+    });
+  }
 }
+
+// Call login function
+login();
 
 // * Referral System Section
 // Get the parameters
