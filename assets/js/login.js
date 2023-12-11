@@ -28,7 +28,7 @@ function getCookie(cname) {
 
 // Get Hutocrypt API Function
 async function hutocrypt() {
-  const response = await fetch("../users.json");
+  const response = await fetch("./users.json");
   const usrs = await response.json();
   return usrs;
 }
