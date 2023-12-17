@@ -35,7 +35,6 @@ form {
 }
 
 h1 {
-  font-family: "Mali", cursive;
   font-weight: 600;
   font-size: 28px;
   text-align: center;
@@ -43,6 +42,7 @@ h1 {
 
 label {
   font-family: "Mali", cursive;
+  font-weight: 500;
   margin-top: 10px;
 }
 
@@ -60,10 +60,40 @@ button {
   width: 99%;
   height: 28px;
   margin-top: 5px;
+  font-weight: 500;
 }
 
 p {
+  color: #24292f;
   text-align: center;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between; /* Adjust as needed */
+}
+
+.github,
+.email {
+  display: flex;
+  align-items: center;
+}
+
+.github a,
+.email a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.github svg,
+.email svg {
+  margin-right: 10px; /* Adjust as needed */
+}
+
+footer p {
+  font-family: "Mali", cursive;
+  font-size: 16px;
 }
 
 @media (max-width: 1088px) {

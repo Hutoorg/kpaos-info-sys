@@ -18,21 +18,46 @@ function getCookie(cname) {
 let username = getCookie("username");
 
 // * User Section
-// ! Do NOT edit this section!
-const users = [
-  { username: "nadech.ta", name: "ณดชน์ ตั้งปภานันต์" },
-  { username: "kpaos", name: "ผู้ใช้ รร.อบจ.กระบี่" },
-];
-
-let user = users.find((u) => u.username === username);
-
-if (user) {
-  // Check if 'user' is defined
-  document.getElementById("hello").innerHTML =
-    "สวัสดี " + user.name + " ยินดีต้อนรับสู่ ระบบข้อมูล รร.อบจ.กระบี่";
-} else {
-  location.href = "./";
+// Get Users
+async function getUsersRaw() {
+  const usersDbResponse = await fetch("./assets/json/users.json");
+  const usrs = await usersDbResponse.json();
+  return usrs;
 }
+
+// Init variable
+var users;
+
+// Extract
+getUsersRaw()
+  .then((usrs) => {
+    const users = usrs;
+    return users;
+  })
+  .catch((error) => {
+    console.error(error);
+  });
+
+// Init from extract
+async function check() {
+  let users = await getUsersRaw();
+
+  // Check if the username from the cookie exists in the users array
+  let user = users.find((u) => u.username === username);
+
+  if (user) {
+    console.log(user);
+    // Check if 'user' is defined
+    document.getElementById("name").innerHTML = "สวัสดี " + user.name;
+    console.log(user.profilePic);
+    document.getElementById("profileImg").src = user.profilePic;
+  } else {
+    location.href = "./";
+    console.log("User not found");
+  }
+}
+
+check();
 
 // * Logout
 function logout() {

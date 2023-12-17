@@ -1,4 +1,14 @@
 [
-  { "username": "nadech.ta", "password": "01527" },
-  { "username": "kpaos", "password": "kpao.school" }
+  {
+    "username": "nadech.ta",
+    "password": "01527",
+    "name": "ณเดชน์ ตั้งปภานันต์",
+    "profilePic": "./assets/profile/nadech-ta.jpg"
+  },
+  {
+    "username": "kpaos",
+    "password": "kpao.school",
+    "name": "ผู้ใช้ รร.อบจ.กระบี่",
+    "profilePic": "./assets/kpaos.jpg"
+  }
 ]

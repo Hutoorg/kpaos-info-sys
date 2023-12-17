@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Mali:wght@200;300;400;500;600&family=Noto+Sans+Thai:wght@400;500;600;700&family=Sarabun:wght@100;200;300;400&display=swap");
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+}
+
+#hello {
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+}
+
+button.icon {
+  display: block;
+  margin-left: auto;
+  padding: 10px 20px;
+  background-color: rgba(255, 255, 255, 0);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+svg {
+  color: #24292f;
+  transition-duration: 500ms;
+}
+
+svg:hover {
+  fill: #0969da;
+}
+
+button:disabled {
+  background-color: #d0212e;
+  color: #f7f8fa;
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+#profileImg {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+#name {
+  text-align: center;
+}
+
+.f-examinee,
+.f-timetable {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.f-examinee button,
+.f-timetable button {
+  margin-left: 10px;
+}
+
+p {
+  text-align: center;
+}
+
+p a {
+  color: #24292f;
+  text-decoration: none;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+
+.invite {
+  text-align: center;
+}
+
+#inv {
+  color: #333;
+}
+
+#qrInv {
+  display: block;
+  margin: 0 auto;
+}

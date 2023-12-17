@@ -58,7 +58,7 @@ async function login() {
   let user = users.find((u) => u.username === usernameFromCookie);
 
   if (user) {
-    location.href = "./home";
+    location.href = "./dashboard";
   } else {
     loginForm.addEventListener("submit", (event) => {
       event.preventDefault();
@@ -72,7 +72,7 @@ async function login() {
 
       if (user) {
         setCookie("username", username, 14);
-        location.href = "./home";
+        location.href = "./dashboard";
       } else {
         alert("ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง!");
       }
@@ -120,6 +120,6 @@ async function auth() {
 
   if (rCode.referralCode) {
     setCookie("username", rCode.username, 3);
-    location.href = "./home";
+    location.href = "./dashboard";
   }
 }

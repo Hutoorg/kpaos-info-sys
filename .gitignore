@@ -1,0 +1,5 @@
+# Ignore JSON files in the assets directory
+/assets/json/*.json
+
+# Ignore profile picture files in the assets directory
+/assets/profile/*.jpg

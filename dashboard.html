@@ -4,7 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>ระบบค้นหาข้อมูล รร.อบจ.กระบี่</title>
-    <link rel="stylesheet" href="./assets/style.css" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/dashboard.css" />
     <link rel="shortcut icon" href="./assets/kpaos.jpg" type="image/x-icon" />
     <meta
       name="description"
@@ -27,9 +28,39 @@
     </script>
   </head>
   <body>
-    <h1 id="hello">ระบบข้อมูล รร.อบจ.กระบี่</h1>
+    <!-- * Header -->
+    <header>
+      <h1>ระบบข้อมูล รร.อบจ.กระบี่</h1>
+      <button class="icon" onclick="logout()">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24"
+          width="24"
+          height="24"
+        >
+          <path
+            d="M3 3.25c0-.966.784-1.75 1.75-1.75h5.5a.75.75 0 0 1 0 1.5h-5.5a.25.25 0 0 0-.25.25v17.5c0 .138.112.25.25.25h5.5a.75.75 0 0 1 0 1.5h-5.5A1.75 1.75 0 0 1 3 20.75Zm16.006 9.5H10.75a.75.75 0 0 1 0-1.5h8.256l-3.3-3.484a.75.75 0 0 1 1.088-1.032l4.5 4.75a.75.75 0 0 1 0 1.032l-4.5 4.75a.75.75 0 0 1-1.088-1.032Z"
+          ></path>
+        </svg>
+      </button>
+    </header>
 
-    <button onclick="examinee()">ระบบค้นหาผู้เข้าสอบ</button>
+    <!-- * Greetings -->
+    <img src="" alt="Profile Picture" id="profileImg" />
+    <h2 id="name">สวัสดี</h2>
+
+    <!-- * Features -->
+    <h2 class="featName">วันนี้เราจะช่วยคุณได้อย่างไร?</h2>
+    <div class="f-examinee">
+      <button onclick="examinee()">ระบบค้นหาผู้เข้าสอบ</button>
+    </div>
+
+    <div class="f-timetable">
+      <button onclick="examinee()" disabled>
+        ระบบค้นหาตางรางเรียน (Coming Soon)
+      </button>
+    </div>
+
     <p>
       ติดต่อ:
       <a
@@ -37,7 +68,6 @@
         >31q8yc2lw@mozmail.com (หรือกดตรงนี้)</a
       >
     </p>
-    <button onclick="logout()">ออกจากระบบ</button>
 
     <div class="invite">
       <h3 id="inv">เชิญผู้อื่นมาใช้</h3>
