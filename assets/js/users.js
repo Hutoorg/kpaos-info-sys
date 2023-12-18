@@ -20,7 +20,9 @@ let username = getCookie("username");
 // * User Section
 // Get Users
 async function getUsersRaw() {
-  const usersDbResponse = await fetch("./assets/json/users.json");
+  const usersDbResponse = await fetch(
+    "//raw.githubusercontent.com/KPAOSsc/accounts/master/users.json?token=GHSAT0AAAAAACKRCZPOHASL4CFE3QIZVIDQZMAJZCA"
+  );
   const usrs = await usersDbResponse.json();
   return usrs;
 }
