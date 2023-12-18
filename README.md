@@ -21,7 +21,6 @@ Technologies used in the project:
 - [HTML](https://html.spec.whatwg.org/multipage/)
 - [CSS](https://www.w3.org/TR/CSS)
 - [JS](https://en.wikipedia.org/wiki/JavaScript)
-- [Node JS](https://nodejs.org)
 - [JSON](https://www.json.org)
 
 <h2>🛡️ License:</h2>

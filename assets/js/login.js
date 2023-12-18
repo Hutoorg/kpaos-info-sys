@@ -93,7 +93,7 @@ const referralCode = getQueryString.get("ref");
 
 // Get referral code from database
 async function getRefCode() {
-  const refDbRespond = await fetch("./assets/json/referral.json");
+  const refDbRespond = await fetch("./assets/json/referrals.json");
   const ref = await refDbRespond.json();
   return ref;
 }
