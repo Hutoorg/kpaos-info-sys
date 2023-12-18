@@ -21,7 +21,7 @@ let username = getCookie("username");
 // Get Users
 async function getUsersRaw() {
   const usersDbResponse = await fetch(
-    "//raw.githubusercontent.com/KPAOSsc/accounts/master/users.json?token=GHSAT0AAAAAACKRCZPOHASL4CFE3QIZVIDQZMAJZCA"
+    "//hutotpn.github.io/kpaos-sc-accounts/users.json"
   );
   const usrs = await usersDbResponse.json();
   return usrs;
