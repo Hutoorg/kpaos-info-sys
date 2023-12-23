@@ -68,32 +68,8 @@ p {
   text-align: center;
 }
 
-footer {
-  display: flex;
-  justify-content: space-between; /* Adjust as needed */
-}
-
-.github,
-.email {
-  display: flex;
-  align-items: center;
-}
-
-.github a,
-.email a {
-  display: flex;
-  align-items: center;
-  text-decoration: none;
-}
-
-.github svg,
-.email svg {
-  margin-right: 10px; /* Adjust as needed */
-}
-
-footer p {
-  font-family: "Mali", cursive;
-  font-size: 16px;
+h3 {
+  text-align: center;
 }
 
 @media (max-width: 1088px) {

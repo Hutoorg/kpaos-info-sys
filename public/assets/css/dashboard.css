@@ -33,15 +33,6 @@ button.icon {
   cursor: pointer;
 }
 
-svg {
-  color: #24292f;
-  transition-duration: 500ms;
-}
-
-svg:hover {
-  fill: #0969da;
-}
-
 button:disabled {
   background-color: #d0212e;
   color: #f7f8fa;
@@ -74,25 +65,12 @@ button:disabled {
   margin-left: 10px;
 }
 
-p {
-  text-align: center;
-}
-
-p a {
-  color: #24292f;
-  text-decoration: none;
-}
-
-p a:hover {
-  text-decoration: underline;
-}
-
-.invite {
-  text-align: center;
-}
-
 #inv {
-  color: #333;
+  color: #24292f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 #qrInv {
