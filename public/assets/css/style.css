@@ -33,6 +33,10 @@ button:hover {
   background-color: #140e76;
 }
 
+a {
+  color: #24292f;
+}
+
 /* TODO: From here, cancel all */
 .searchDiv {
   margin-top: 10px;
