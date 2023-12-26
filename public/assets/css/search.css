@@ -16,19 +16,11 @@ header {
 button.icon {
   display: block;
   margin-left: auto;
-  padding: 10px 20px;
+  padding: 0 0;
   background-color: rgba(255, 255, 255, 0);
   border: none;
   border-radius: 5px;
   cursor: pointer;
-}
-
-#profileImg {
-  display: block;
-  margin: 0 auto;
-  width: 64px;
-  height: 64px;
-  border-radius: 50%;
 }
 
 h2 {
@@ -41,6 +33,20 @@ h2 {
   margin-bottom: 10px;
 }
 
+.inputCenter {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+input {
+  width: 168px;
+}
+
 button {
   padding: 10px 20px;
+}
+
+.result {
+  margin-bottom: 5px;
 }

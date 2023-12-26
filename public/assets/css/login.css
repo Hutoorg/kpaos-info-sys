@@ -49,10 +49,6 @@ label {
 input {
   width: 99%;
   height: 2.5em;
-  font-family: "Mali", cursive;
-  font-weight: 500;
-  border: 0.5px solid rgb(50, 50, 50);
-  border-radius: 1em;
   margin-top: 1mm;
 }
 

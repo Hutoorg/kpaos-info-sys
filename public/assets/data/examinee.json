@@ -1,0 +1,3251 @@
+[
+  {
+    "no": "",
+    "sits_id": "",
+    "reg_id": "",
+    "prefix": "",
+    "name": "",
+    "exam_room": "",
+    "room_id": ""
+  },
+  {
+    "no": 1,
+    "sits_id": 1,
+    "reg_id": 100001,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 2,
+    "sits_id": 2,
+    "reg_id": 100002,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 3,
+    "sits_id": 3,
+    "reg_id": 100003,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 4,
+    "sits_id": 4,
+    "reg_id": 100004,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 5,
+    "sits_id": 5,
+    "reg_id": 100006,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 6,
+    "sits_id": 6,
+    "reg_id": 100007,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 7,
+    "sits_id": 7,
+    "reg_id": 100008,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 8,
+    "sits_id": 8,
+    "reg_id": 100010,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 9,
+    "sits_id": 9,
+    "reg_id": 100012,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 10,
+    "sits_id": 10,
+    "reg_id": 100015,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 11,
+    "sits_id": 11,
+    "reg_id": 100019,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 12,
+    "sits_id": 12,
+    "reg_id": 100020,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 13,
+    "sits_id": 13,
+    "reg_id": 100024,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 14,
+    "sits_id": 14,
+    "reg_id": 100028,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 15,
+    "sits_id": 15,
+    "reg_id": 100029,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 16,
+    "sits_id": 16,
+    "reg_id": 100030,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 17,
+    "sits_id": 17,
+    "reg_id": 100031,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 18,
+    "sits_id": 18,
+    "reg_id": 100032,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 19,
+    "sits_id": 19,
+    "reg_id": 100035,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 20,
+    "sits_id": 20,
+    "reg_id": 100036,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 21,
+    "sits_id": 21,
+    "reg_id": 100037,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 22,
+    "sits_id": 22,
+    "reg_id": 100039,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 23,
+    "sits_id": 23,
+    "reg_id": 100041,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 24,
+    "sits_id": 24,
+    "reg_id": 100042,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 25,
+    "sits_id": 25,
+    "reg_id": 100043,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 26,
+    "sits_id": 26,
+    "reg_id": 100044,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 27,
+    "sits_id": 27,
+    "reg_id": 100046,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 28,
+    "sits_id": 28,
+    "reg_id": 100047,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 29,
+    "sits_id": 29,
+    "reg_id": 100048,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 30,
+    "sits_id": 30,
+    "reg_id": 100049,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 1,
+    "room_id": 1202
+  },
+  {
+    "no": 31,
+    "sits_id": 1,
+    "reg_id": 100051,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 32,
+    "sits_id": 2,
+    "reg_id": 100053,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 33,
+    "sits_id": 3,
+    "reg_id": 100054,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 34,
+    "sits_id": 4,
+    "reg_id": 100055,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 35,
+    "sits_id": 5,
+    "reg_id": 100058,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 36,
+    "sits_id": 6,
+    "reg_id": 100060,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 37,
+    "sits_id": 7,
+    "reg_id": 100064,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 38,
+    "sits_id": 8,
+    "reg_id": 100065,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 39,
+    "sits_id": 9,
+    "reg_id": 100066,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 40,
+    "sits_id": 10,
+    "reg_id": 100067,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 41,
+    "sits_id": 11,
+    "reg_id": 100068,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 42,
+    "sits_id": 12,
+    "reg_id": 100069,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 43,
+    "sits_id": 13,
+    "reg_id": 100070,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 44,
+    "sits_id": 14,
+    "reg_id": 100071,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 45,
+    "sits_id": 15,
+    "reg_id": 100073,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 46,
+    "sits_id": 16,
+    "reg_id": 100074,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 47,
+    "sits_id": 17,
+    "reg_id": 100075,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 48,
+    "sits_id": 18,
+    "reg_id": 100077,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 49,
+    "sits_id": 19,
+    "reg_id": 100078,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 50,
+    "sits_id": 20,
+    "reg_id": 100079,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 51,
+    "sits_id": 21,
+    "reg_id": 100081,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 52,
+    "sits_id": 22,
+    "reg_id": 100082,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 53,
+    "sits_id": 23,
+    "reg_id": 100084,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 54,
+    "sits_id": 24,
+    "reg_id": 100086,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 55,
+    "sits_id": 25,
+    "reg_id": 100089,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 56,
+    "sits_id": 26,
+    "reg_id": 100090,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 57,
+    "sits_id": 27,
+    "reg_id": 100095,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 58,
+    "sits_id": 28,
+    "reg_id": 100097,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 59,
+    "sits_id": 29,
+    "reg_id": 100102,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 60,
+    "sits_id": 30,
+    "reg_id": 100103,
+    "prefix": "ด.ญ.",
+    "name": "Cut p",
+    "exam_room": 2,
+    "room_id": 1203
+  },
+  {
+    "no": 61,
+    "sits_id": 1,
+    "reg_id": 100105,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 62,
+    "sits_id": 2,
+    "reg_id": 100107,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 63,
+    "sits_id": 3,
+    "reg_id": 100108,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 64,
+    "sits_id": 4,
+    "reg_id": 100111,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 65,
+    "sits_id": 5,
+    "reg_id": 100112,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 66,
+    "sits_id": 6,
+    "reg_id": 100113,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 67,
+    "sits_id": 7,
+    "reg_id": 100118,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 68,
+    "sits_id": 8,
+    "reg_id": 1001134,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 69,
+    "sits_id": 9,
+    "reg_id": 1001137,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 70,
+    "sits_id": 10,
+    "reg_id": 1001,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 71,
+    "sits_id": 11,
+    "reg_id": 1001,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 72,
+    "sits_id": 12,
+    "reg_id": 1001,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 73,
+    "sits_id": 13,
+    "reg_id": 1001,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 74,
+    "sits_id": 14,
+    "reg_id": 1001,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 75,
+    "sits_id": 15,
+    "reg_id": 1001,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 76,
+    "sits_id": 16,
+    "reg_id": 1001,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 77,
+    "sits_id": 17,
+    "reg_id": 1001,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 78,
+    "sits_id": 18,
+    "reg_id": 1001,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 79,
+    "sits_id": 19,
+    "reg_id": 1001,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 80,
+    "sits_id": 20,
+    "reg_id": 1001,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 81,
+    "sits_id": 21,
+    "reg_id": 1001,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 82,
+    "sits_id": 22,
+    "reg_id": 1001,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 83,
+    "sits_id": 23,
+    "reg_id": 1001,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 84,
+    "sits_id": 24,
+    "reg_id": 1001,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 85,
+    "sits_id": 25,
+    "reg_id": 1001,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 86,
+    "sits_id": 26,
+    "reg_id": 1001,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 87,
+    "sits_id": 27,
+    "reg_id": 1001,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 88,
+    "sits_id": 28,
+    "reg_id": 1001,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 89,
+    "sits_id": 29,
+    "reg_id": 1001,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 90,
+    "sits_id": 30,
+    "reg_id": 1001,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 3,
+    "room_id": 1204
+  },
+  {
+    "no": 91,
+    "sits_id": 1,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 92,
+    "sits_id": 2,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 93,
+    "sits_id": 3,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 94,
+    "sits_id": 4,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 95,
+    "sits_id": 5,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 96,
+    "sits_id": 6,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 97,
+    "sits_id": 7,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 98,
+    "sits_id": 8,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 99,
+    "sits_id": 9,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 100,
+    "sits_id": 10,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 101,
+    "sits_id": 11,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 102,
+    "sits_id": 12,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 103,
+    "sits_id": 13,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 104,
+    "sits_id": 14,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 105,
+    "sits_id": 15,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 106,
+    "sits_id": 16,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 107,
+    "sits_id": 17,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 108,
+    "sits_id": 18,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 109,
+    "sits_id": 19,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 110,
+    "sits_id": 20,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 111,
+    "sits_id": 21,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 112,
+    "sits_id": 22,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 113,
+    "sits_id": 23,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 114,
+    "sits_id": 24,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 115,
+    "sits_id": 25,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 116,
+    "sits_id": 26,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 117,
+    "sits_id": 27,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 118,
+    "sits_id": 28,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 119,
+    "sits_id": 29,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 120,
+    "sits_id": 30,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 4,
+    "room_id": 1205
+  },
+  {
+    "no": 121,
+    "sits_id": 1,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 122,
+    "sits_id": 2,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 123,
+    "sits_id": 3,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 124,
+    "sits_id": 4,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 125,
+    "sits_id": 5,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 126,
+    "sits_id": 6,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 127,
+    "sits_id": 7,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 128,
+    "sits_id": 8,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 129,
+    "sits_id": 9,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 130,
+    "sits_id": 10,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 131,
+    "sits_id": 11,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 132,
+    "sits_id": 12,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 133,
+    "sits_id": 13,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 134,
+    "sits_id": 14,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 135,
+    "sits_id": 15,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 136,
+    "sits_id": 16,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 137,
+    "sits_id": 17,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 138,
+    "sits_id": 18,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 139,
+    "sits_id": 19,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 140,
+    "sits_id": 20,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 141,
+    "sits_id": 21,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 142,
+    "sits_id": 22,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 143,
+    "sits_id": 23,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 144,
+    "sits_id": 24,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 145,
+    "sits_id": 25,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 146,
+    "sits_id": 26,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 147,
+    "sits_id": 27,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 148,
+    "sits_id": 28,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 149,
+    "sits_id": 29,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 150,
+    "sits_id": 30,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 5,
+    "room_id": 1206
+  },
+  {
+    "no": 151,
+    "sits_id": 1,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 152,
+    "sits_id": 2,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 153,
+    "sits_id": 3,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 154,
+    "sits_id": 4,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 155,
+    "sits_id": 5,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 156,
+    "sits_id": 6,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 157,
+    "sits_id": 7,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 158,
+    "sits_id": 8,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 159,
+    "sits_id": 9,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 160,
+    "sits_id": 10,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 161,
+    "sits_id": 11,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 162,
+    "sits_id": 12,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 163,
+    "sits_id": 13,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 164,
+    "sits_id": 14,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 165,
+    "sits_id": 15,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 166,
+    "sits_id": 16,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 167,
+    "sits_id": 17,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 168,
+    "sits_id": 18,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 169,
+    "sits_id": 19,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 170,
+    "sits_id": 20,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 171,
+    "sits_id": 21,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 172,
+    "sits_id": 22,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 173,
+    "sits_id": 23,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 174,
+    "sits_id": 24,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 175,
+    "sits_id": 25,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 176,
+    "sits_id": 26,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 177,
+    "sits_id": 27,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 178,
+    "sits_id": 28,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 179,
+    "sits_id": 29,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 180,
+    "sits_id": 30,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 6,
+    "room_id": 1207
+  },
+  {
+    "no": 181,
+    "sits_id": 1,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 182,
+    "sits_id": 2,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 183,
+    "sits_id": 3,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 184,
+    "sits_id": 4,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 185,
+    "sits_id": 5,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 186,
+    "sits_id": 6,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 187,
+    "sits_id": 7,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 188,
+    "sits_id": 8,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 189,
+    "sits_id": 9,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 190,
+    "sits_id": 10,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 191,
+    "sits_id": 11,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 192,
+    "sits_id": 12,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 193,
+    "sits_id": 13,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 194,
+    "sits_id": 14,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 195,
+    "sits_id": 15,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 196,
+    "sits_id": 16,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 197,
+    "sits_id": 17,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 198,
+    "sits_id": 18,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 199,
+    "sits_id": 19,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 200,
+    "sits_id": 20,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 201,
+    "sits_id": 21,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 202,
+    "sits_id": 22,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 203,
+    "sits_id": 23,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 204,
+    "sits_id": 24,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 205,
+    "sits_id": 25,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 206,
+    "sits_id": 26,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 207,
+    "sits_id": 27,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 208,
+    "sits_id": 28,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 209,
+    "sits_id": 29,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 210,
+    "sits_id": 30,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 7,
+    "room_id": 1302
+  },
+  {
+    "no": 211,
+    "sits_id": 1,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 212,
+    "sits_id": 2,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 213,
+    "sits_id": 3,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 214,
+    "sits_id": 4,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 215,
+    "sits_id": 5,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 216,
+    "sits_id": 6,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 217,
+    "sits_id": 7,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 218,
+    "sits_id": 8,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 219,
+    "sits_id": 9,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 220,
+    "sits_id": 10,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 221,
+    "sits_id": 11,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 222,
+    "sits_id": 12,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 223,
+    "sits_id": 13,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 224,
+    "sits_id": 14,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 225,
+    "sits_id": 15,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 226,
+    "sits_id": 16,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 227,
+    "sits_id": 17,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 228,
+    "sits_id": 18,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 229,
+    "sits_id": 19,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 230,
+    "sits_id": 20,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 231,
+    "sits_id": 21,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 232,
+    "sits_id": 22,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 233,
+    "sits_id": 23,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 234,
+    "sits_id": 24,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 235,
+    "sits_id": 25,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 236,
+    "sits_id": 26,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 237,
+    "sits_id": 27,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 238,
+    "sits_id": 28,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 239,
+    "sits_id": 29,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 240,
+    "sits_id": 30,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 8,
+    "room_id": 1303
+  },
+  {
+    "no": 241,
+    "sits_id": 1,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 242,
+    "sits_id": 2,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 243,
+    "sits_id": 3,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 244,
+    "sits_id": 4,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 245,
+    "sits_id": 5,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 246,
+    "sits_id": 6,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 247,
+    "sits_id": 7,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 248,
+    "sits_id": 8,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 249,
+    "sits_id": 9,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 250,
+    "sits_id": 10,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 251,
+    "sits_id": 11,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 252,
+    "sits_id": 12,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 253,
+    "sits_id": 13,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 254,
+    "sits_id": 14,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 255,
+    "sits_id": 15,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 256,
+    "sits_id": 16,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 257,
+    "sits_id": 17,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 258,
+    "sits_id": 18,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 259,
+    "sits_id": 19,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 260,
+    "sits_id": 20,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 261,
+    "sits_id": 21,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 262,
+    "sits_id": 22,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 263,
+    "sits_id": 23,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 264,
+    "sits_id": 24,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 265,
+    "sits_id": 25,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 266,
+    "sits_id": 26,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 267,
+    "sits_id": 27,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 268,
+    "sits_id": 28,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 269,
+    "sits_id": 29,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 270,
+    "sits_id": 30,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 9,
+    "room_id": 1304
+  },
+  {
+    "no": 271,
+    "sits_id": 1,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 272,
+    "sits_id": 2,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 273,
+    "sits_id": 3,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 274,
+    "sits_id": 4,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 275,
+    "sits_id": 5,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 276,
+    "sits_id": 6,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 277,
+    "sits_id": 7,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 278,
+    "sits_id": 8,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 279,
+    "sits_id": 9,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 280,
+    "sits_id": 10,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 281,
+    "sits_id": 11,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 282,
+    "sits_id": 12,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 283,
+    "sits_id": 13,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 284,
+    "sits_id": 14,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 285,
+    "sits_id": 15,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 286,
+    "sits_id": 16,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 287,
+    "sits_id": 17,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 288,
+    "sits_id": 18,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 289,
+    "sits_id": 19,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 290,
+    "sits_id": 20,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 291,
+    "sits_id": 21,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 292,
+    "sits_id": 22,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 293,
+    "sits_id": 23,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 294,
+    "sits_id": 24,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 295,
+    "sits_id": 25,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 296,
+    "sits_id": 26,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 297,
+    "sits_id": 27,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 298,
+    "sits_id": 28,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 299,
+    "sits_id": 29,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 300,
+    "sits_id": 30,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 10,
+    "room_id": 1305
+  },
+  {
+    "no": 301,
+    "sits_id": 1,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 302,
+    "sits_id": 2,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 303,
+    "sits_id": 3,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 304,
+    "sits_id": 4,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 305,
+    "sits_id": 5,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 306,
+    "sits_id": 6,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 307,
+    "sits_id": 7,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 308,
+    "sits_id": 8,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 309,
+    "sits_id": 9,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 310,
+    "sits_id": 10,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 311,
+    "sits_id": 11,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 312,
+    "sits_id": 12,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 313,
+    "sits_id": 13,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 314,
+    "sits_id": 14,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 315,
+    "sits_id": 15,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 316,
+    "sits_id": 16,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 317,
+    "sits_id": 17,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 318,
+    "sits_id": 18,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 319,
+    "sits_id": 19,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 320,
+    "sits_id": 20,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 321,
+    "sits_id": 21,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 322,
+    "sits_id": 22,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 323,
+    "sits_id": 23,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 324,
+    "sits_id": 24,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 325,
+    "sits_id": 25,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 326,
+    "sits_id": 26,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 327,
+    "sits_id": 27,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 328,
+    "sits_id": 28,
+    "reg_id": 100000,
+    "prefix": "ด.ญ.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 329,
+    "sits_id": 29,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 330,
+    "sits_id": 30,
+    "reg_id": 100000,
+    "prefix": "ด.ช.",
+    "name": "",
+    "exam_room": 11,
+    "room_id": 1306
+  },
+  {
+    "no": 331,
+    "sits_id": 1,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 332,
+    "sits_id": 2,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 333,
+    "sits_id": 3,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 334,
+    "sits_id": 4,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 335,
+    "sits_id": 5,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 336,
+    "sits_id": 6,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 337,
+    "sits_id": 7,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 338,
+    "sits_id": 8,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 339,
+    "sits_id": 9,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 340,
+    "sits_id": 10,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 341,
+    "sits_id": 11,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 342,
+    "sits_id": 12,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 343,
+    "sits_id": 13,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 344,
+    "sits_id": 14,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 345,
+    "sits_id": 15,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 346,
+    "sits_id": 16,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 347,
+    "sits_id": 17,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 348,
+    "sits_id": 18,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 349,
+    "sits_id": 19,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 350,
+    "sits_id": 20,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 351,
+    "sits_id": 21,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 352,
+    "sits_id": 22,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 353,
+    "sits_id": 23,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 354,
+    "sits_id": 24,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 355,
+    "sits_id": 25,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 356,
+    "sits_id": 26,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 357,
+    "sits_id": 27,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 358,
+    "sits_id": 28,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 359,
+    "sits_id": 29,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  },
+  {
+    "no": 360,
+    "sits_id": 30,
+    "reg_id": 100000,
+    "prefix": "",
+    "name": "",
+    "exam_room": 12,
+    "room_id": 1307
+  }
+]

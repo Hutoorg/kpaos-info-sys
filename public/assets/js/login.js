@@ -30,7 +30,7 @@ function getCookie(cname) {
 // Get Users
 async function getUsersRaw() {
   const usersDbResponse = await fetch(
-    "//hutotpn.github.io/kpaos-sc-accounts/users.json"
+    "//hutotpn.github.io/kpaos-sc-accounts/users.json65"
   );
   const usrs = await usersDbResponse.json();
   return usrs;
@@ -96,7 +96,7 @@ const referralCode = getQueryString.get("ref");
 // Get referral code from database
 async function getRefCode() {
   const refDbRespond = await fetch(
-    "//hutotpn.github.io/kpaos-sc-accounts/referrals.json"
+    "//hutotpn.github.io/kpaos-sc-accounts/referrals.json454"
   );
   const ref = await refDbRespond.json();
   return ref;

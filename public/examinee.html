@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>ระบบค้นหาข้อมูล รร.อบจ.กระบี่</title>
     <link rel="stylesheet" href="./assets/css/style.css" />
-    <link rel="stylesheet" href="./assets/css/table.css" />
+    <link rel="stylesheet" href="./assets/css/search.css" />
     <link rel="stylesheet" href="./assets/css/icons.css" />
     <link rel="shortcut icon" href="./assets/kpaos.jpg" type="image/x-icon" />
     <meta
@@ -49,8 +49,25 @@
     <h2 class="featName">ระบบค้นหารายชื่อผู้เข้าสอบ<br />พร้อมห้องสอบ</h2>
     <h2>สอบเข้า ม.1 ปีการศึกษา 2566 รอบที่ 2</h2>
 
-    <label for="exeeID">รหัสประจำตัวสอบ</label>
-    <input type="text" inputmode="numeric" name="examineeID" id="exeeID" />
+    <form id="exeeInput" autocomplete="off">
+      <label for="exeeID">รหัสประจำตัวสอบ</label>
+      <div class="inputCenter">
+        <input type="text" inputmode="numeric" name="examineeID" id="exeeID" />
+        <button type="submit">ค้นหา</button>
+      </div>
+    </form>
+
+    <div id="results">
+      <p id="no" class="result">ที่:</p>
+      <p id="sits" class="result">เลขที่นั่งสอบ:</p>
+      <p id="reg" class="result">รหัสประจำตัวสอบ:</p>
+      <p id="name" class="result">ชื่อ-สกุล:</p>
+      <br />
+      <p id="exRoom" class="result">ห้องสอบที่:</p>
+      <p id="building" class="result">อาคาร:</p>
+      <p id="floor" class="result">ชั้น:</p>
+      <p id="roomID" class="result">ห้อง:</p>
+    </div>
 
     <!-- * Footer -->
     <footer>
@@ -112,12 +129,13 @@
     </div>
     <p>
       &copy; KPAOS Information System is licensed under
-      <a href="https://www.mozilla.org/en-US/MPL/2.0/"
+      <a href="https://www.mozilla.org/MPL/2.0/"
         >Mozilla Public License Version 2.0</a
       >
     </p>
 
     <!-- * Import Script -->
+    <script src="./assets/js/examinee.js"></script>
     <script src="./assets/js/users.js"></script>
     <script src="./assets/js/self-xss_warn.js"></script>
   </body>
