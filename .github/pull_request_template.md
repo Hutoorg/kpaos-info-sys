@@ -18,7 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 # Checklist:
 
-- [ ] My code follows the style guidelines of this project
+- [ ] My code follows the [style guidelines](../style_guideline.md) of this project
 - [ ] I have performed a self-review of my code
 - [ ] I have commented on my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
