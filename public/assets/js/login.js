@@ -96,7 +96,7 @@ const referralCode = getQueryString.get("ref");
 // Get referral code from database
 async function getRefCode() {
   const refDbRespond = await fetch(
-    "//hutotpn.github.io/kpaos-sc-accounts/referrals.json454"
+    "//hutotpn.github.io/kpaos-sc-accounts/referrals.json"
   );
   const ref = await refDbRespond.json();
   return ref;

@@ -47,15 +47,12 @@ async function check() {
   // Check if the username from the cookie exists in the users array
   let user = users.find((u) => u.username === username);
 
+  // Check if 'user' is defined
   if (user) {
-    console.log(user);
-    // Check if 'user' is defined
     document.getElementById("name").innerHTML = "สวัสดี " + user.name;
-    console.log(user.profilePic);
     document.getElementById("profileImg").src = user.profilePic;
   } else {
     location.href = "./";
-    console.log("User not found");
   }
 }
 

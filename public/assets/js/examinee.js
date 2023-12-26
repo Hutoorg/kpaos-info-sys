@@ -1,3 +1,4 @@
+// Examinee data
 const examinees = [
   {
     no: "",
@@ -6,6 +7,8 @@ const examinees = [
     prefix: "",
     name: "",
     exam_room: "",
+    building: "",
+    floor: "",
     room_id: "",
   },
   {
@@ -32,6 +35,7 @@ const examinees = [
   },
 ];
 
+// Form submit event
 document.getElementById("exeeInput").addEventListener("submit", (event) => {
   event.preventDefault();
 
@@ -57,6 +61,6 @@ document.getElementById("exeeInput").addEventListener("submit", (event) => {
     document.getElementById("floor").innerHTML = "ชั้น: " + examinee.floor;
     document.getElementById("roomID").innerHTML = "ห้อง: " + examinee.room_id;
   } else {
-    console.error("Examinee not found");
+    alert("ไม่พบข้อมูลผู้เข้าสอบ!");
   }
 });
