@@ -30,7 +30,7 @@ function getCookie(cname) {
 // Get Users
 async function getUsersRaw() {
   const usersDbResponse = await fetch(
-    "//hutotpn.github.io/kpaos-sc-accounts/users.json65"
+    "//hutotpn.github.io/kpaos-sc-accounts/users.json"
   );
   const usrs = await usersDbResponse.json();
   return usrs;

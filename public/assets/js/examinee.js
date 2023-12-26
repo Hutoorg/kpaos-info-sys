@@ -1,53 +1,62 @@
-// Get Examinees
-async function getExaminee() {
-  const examineeDbResponse = await fetch("./assets/data/examinee.json");
-  const exees = await examineeDbResponse.json();
-  return exees;
-}
+const examinees = [
+  {
+    no: "",
+    sits_id: "",
+    reg_id: "",
+    prefix: "",
+    name: "",
+    exam_room: "",
+    room_id: "",
+  },
+  {
+    no: 1,
+    sits_id: 1,
+    reg_id: "100001",
+    prefix: "ด.ช.",
+    name: "ทดสอบ ทดสอบ",
+    exam_room: 1,
+    building: "จันอิน",
+    floor: 2,
+    room_id: 3201,
+  },
+  {
+    no: 2,
+    sits_id: 2,
+    reg_id: "100002",
+    prefix: "ด.ญ.",
+    name: "ทดสอบ ทดสอบ",
+    exam_room: 1,
+    building: "จันอิน",
+    floor: 2,
+    room_id: 3201,
+  },
+];
 
-// Init variable
-var examinees;
+document.getElementById("exeeInput").addEventListener("submit", (event) => {
+  event.preventDefault();
 
-// Extract
-getExaminee()
-  .then((exees) => {
-    const examinees = exees;
-    return examinees;
-  })
-  .catch((error) => {
-    console.error(error);
-  });
+  // Get register ID from input
+  let registerId = document.getElementById("exeeID").value;
 
-// Init from extract
-async function examinee() {
-  let examinees = await getExaminee();
+  // Check if the register ID from the input exists in the examinees database
+  let examinee = examinees.find((e) => e.reg_id === registerId);
 
-  document.getElementById("exeeInput").addEventListener("submit", (event) => {
-    event.preventDefault();
+  if (examinee) {
+    document.getElementById("no").innerHTML = "ที่: " + examinee.no;
+    document.getElementById("sits").innerHTML =
+      "เลขที่นั่งสอบ: " + examinee.sits_id;
+    document.getElementById("reg").innerHTML =
+      "รหัสประจำตัวสอบ: " + examinee.reg_id;
+    document.getElementById("name").innerHTML =
+      "ชื่อ-สกุล: " + examinee.prefix + " " + examinee.name;
 
-    // HTML Result function
-    function results(id, key, value) {
-      document.getElementById(id).innerHTML = key + ": " + value;
-    }
-
-    // Get register ID from input
-    let registerId = document.getElementById("exeeID").value;
-
-    // Check if the register ID from the input exists in the examinees database
-    let examinee = examinees.find((e) => e.reg_id === registerId);
-
-    if (examinee) {
-      results("no", "ที่", examinee.no);
-      results("sits", "เลขที่นั่งสอบ", examinee.sits_id);
-      results("reg", "รหัสประจำตัวสอบ", examinee.reg_id);
-      results("name", "ชื่อ-สกุล", examinee.prefix + " " + examinee.name);
-
-      results("exRoom", "ห้องสอบที่", examinee.no);
-      results("building", "อาคาร", examinee.no);
-      results("floor", "ชั้น", examinee.no);
-      results("roomID", "ห้อง", examinee.no);
-    }
-  });
-}
-
-examinee();
+    document.getElementById("exRoom").innerHTML =
+      "ห้องสอบที่: " + examinee.exam_room;
+    document.getElementById("building").innerHTML =
+      "อาคาร: " + examinee.building;
+    document.getElementById("floor").innerHTML = "ชั้น: " + examinee.floor;
+    document.getElementById("roomID").innerHTML = "ห้อง: " + examinee.room_id;
+  } else {
+    console.error("Examinee not found");
+  }
+});
