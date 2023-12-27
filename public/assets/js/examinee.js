@@ -51,7 +51,7 @@ document.getElementById("exeeInput").addEventListener("submit", (event) => {
       "เลขที่นั่งสอบ: " + examinee.sits_id;
     document.getElementById("reg").innerHTML =
       "รหัสประจำตัวสอบ: " + examinee.reg_id;
-    document.getElementById("name").innerHTML =
+    document.getElementById("exeeName").innerHTML =
       "ชื่อ-สกุล: " + examinee.prefix + " " + examinee.name;
 
     document.getElementById("exRoom").innerHTML =
