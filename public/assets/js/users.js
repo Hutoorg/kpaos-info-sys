@@ -49,7 +49,6 @@ async function check() {
 
   // Check if 'user' is defined
   if (user) {
-    console.log(user);
     document.getElementById("name").innerHTML = user.name;
     document.getElementById("profileImg").src = user.profilePic;
   } else {
