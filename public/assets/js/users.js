@@ -49,7 +49,8 @@ async function check() {
 
   // Check if 'user' is defined
   if (user) {
-    document.getElementById("name").innerHTML = "สวัสดี " + user.name;
+    console.log(user);
+    document.getElementById("name").innerHTML = user.name;
     document.getElementById("profileImg").src = user.profilePic;
   } else {
     location.href = "./";
@@ -63,6 +64,7 @@ function logout() {
   document.cookie = "username=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
   location.href = "./";
 }
+
 //* Referral System
 
 if (username != "kpaos") {
