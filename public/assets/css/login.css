@@ -28,6 +28,11 @@ body {
   border-radius: 10mm;
 }
 
+/* * Landing page */
+img {
+  width: 100%;
+}
+
 /* * Login form */
 form {
   margin-left: 1em;
