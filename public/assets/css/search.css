@@ -24,6 +24,10 @@ button.icon {
   cursor: pointer;
 }
 
+a.homeLink {
+  text-decoration: none;
+}
+
 h2 {
   text-align: center;
 }
