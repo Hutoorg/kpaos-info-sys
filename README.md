@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository will be archived on December 31, 2023. We've moved to [KPAOSStuComm/kpaos-fn](https://github.com/KPAOSStuComm/kpaos-fn)
+
 <h1 align="center" id="title">KPAOS Information System</h1>
 
 ## 🚀 Website
